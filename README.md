@@ -10,9 +10,9 @@ APPR为个人分享平台，与众多网友共享更多必备软件，新鲜APP�
 
 [Mac](https://github.com/XXXXXHR/xxxxxhr.github.io/blob/master/Mac.md)
 
-[Win](http://i.ippapp.com/dahuicxs.html) 
+[Win](https://github.com/XXXXXHR/xxxxxhr.github.io/blob/master/Win.md) 
 
-[iOS](http://i.ippapp.com/dahuicxs.html) 
+[iOS](https://github.com/XXXXXHR/xxxxxhr.github.io/blob/master/iOS.md) 
 
 [安卓](http://i.ippapp.com/dahuicxs.html) 
 
